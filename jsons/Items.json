@@ -1,0 +1,56 @@
+[
+    {
+        "tipoItem": 1,
+        "id": 1,
+        "descripcion": "Televisor LG 30\"",
+        "valorUnidad": 1000000
+    },
+    {
+        "tipoItem": 1,
+        "id": 2,
+        "descripcion": "Televisor Samsung 40\" FullHD 1 Link por mega",
+        "valorUnidad": 4000000
+    },
+    {
+        "tipoItem": 2,
+        "id": 3,
+        "descripcion": "Zapatos Ferragamo autografeados por Petro",
+        "valorUnidad": 10000000
+    },
+    {
+        "tipoItem": 2,
+        "id": 4,
+        "descripcion": "Crocs del Uribisimo",
+        "valorUnidad": 20000
+    },
+    {
+        "tipoItem": 3,
+        "id": 5,
+        "descripcion": "Traje camuflado con dos botas izquierdas",
+        "valorUnidad": 100000
+    },
+    {
+        "tipoItem": 4,
+        "id": 6,
+        "descripcion": "Motosierra para uso domestica perfecta para salidas al pueblo",
+        "valorUnidad": 400000
+    },
+    {
+        "tipoItem": 5,
+        "id": 7,
+        "descripcion": "Tomate",
+        "valorUnidad": 2000
+    },
+    {
+        "tipoItem": 6,
+        "id": 8,
+        "descripcion": "Maracuya",
+        "valorUnidad": 2600
+    },
+    {
+        "tipoItem": 7,
+        "id": 9,
+        "descripcion": "Frijoles Cargamanto",
+        "valorUnidad": 17000
+    }
+]

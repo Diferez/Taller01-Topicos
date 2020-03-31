@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Diego",
+        "apellido": "Martinez",
+        "id": 1,
+        "genero": "H",
+        "estadoCivil": "S",
+        "fechaNacimiento": "1995-8-3"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Marin",
+        "id": 2,
+        "genero": "H",
+        "estadoCivil": "C",
+        "fechaNacimiento": "1994-8-4"
+    },
+    {
+        "nombre": "Mateo",
+        "apellido": "Grajales",
+        "id": 3,
+        "genero": "H",
+        "estadoCivil": "s",
+        "fechaNacimiento": "1993-10-10"
+    }
+]

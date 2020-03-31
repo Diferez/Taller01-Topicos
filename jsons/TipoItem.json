@@ -1,0 +1,30 @@
+[
+    {
+        "id_tipoitem": 1,
+        "descripcion": "Electorodomesticos"
+    },
+    {
+        "id_tipoitem": 2,
+        "descripcion": "Zapatos"
+    },
+    {
+        "id_tipoitem": 3,
+        "descripcion": "Ropa"
+    },
+    {
+        "id_tipoitem": 4,
+        "descripcion": "Hogar"
+    },
+    {
+        "id_tipoitem": 5,
+        "descripcion": "Verduras"
+    },
+    {
+        "id_tipoitem": 6,
+        "descripcion": "Frutas"
+    },
+    {
+        "id_tipoitem": 7,
+        "descripcion": "Granos"
+    }
+]
